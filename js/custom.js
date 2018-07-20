@@ -5,7 +5,7 @@ $(window).load(function () {
 });
 
 
-$(document).ready(function () {
+// $(document).ready(function () {
 
     /* Hide mobile menu after clicking on a link
       -----------------------------------------------*/
@@ -118,6 +118,6 @@ $(document).ready(function () {
         $('#collapseThree').collapse('show')
     });
 
-});
+// });
 
 
