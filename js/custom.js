@@ -83,11 +83,11 @@ $(document).ready(function () {
     /* Parallax section
       -----------------------------------------------*/
     function initParallax() {
-        $('#work').parallax("100%", 0.3);
+        $('#work').parallax("100%", 0.2);
         $('#about').parallax("100%", 0.2);
-        $('#team').parallax("100%", 0.3);
+        $('#team').parallax("100%", 0.2);
         $('#product').parallax("100%", 0.1);
-        $('#case').parallax("100%", 0.3);
+        $('#case').parallax("100%", 0.2);
         $('#contact').parallax("100%", 0.2);
     }
 
