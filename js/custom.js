@@ -63,7 +63,7 @@ $(document).ready(function () {
      -----------------------------------------------*/
     $(document).ready(function () {
         $("#owl-work").owlCarousel({
-            autoPlay: 3000,
+            autoPlay: 2000,
             items: 3,
             itemsDesktop: [1199, 3],
             itemsDesktopSmall: [979, 3],
@@ -72,7 +72,7 @@ $(document).ready(function () {
 
     $(document).ready(function () {
         $("#owl-partner").owlCarousel({
-            autoPlay: 3000,
+            autoPlay: 2000,
             items: 7,
             itemsDesktop: [1199, 7],
             itemsDesktopSmall: [979, 7],
